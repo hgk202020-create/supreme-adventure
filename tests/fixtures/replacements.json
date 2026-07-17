@@ -1,0 +1,12 @@
+{
+  "replacements": [
+    {
+      "old": "Server=OLD-SQL;Database=Labels;",
+      "new": "Server=NEW-SQL;Database=Labels;"
+    },
+    {
+      "old": "C:\\\\old-share\\\\datasource.csv",
+      "new": "C:\\\\new-share\\\\datasource.csv"
+    }
+  ]
+}
